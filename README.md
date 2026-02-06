@@ -5,7 +5,7 @@ Aujourd’hui, je suis **enseignant AI/Data Science chez Le Wagon**
 
 ---
 
-### 🎯 Ce que je peux apporter en équipe )
+### 🎯 Ce que je peux apporter en équipe
 - **Pipelines RAG end-to-end** : ingestion → parsing → embeddings → vector store → retrieval → génération → évaluation
 - **Agents & orchestration** : LangChain / LangGraph
 - **Mise en prod** 
@@ -18,7 +18,7 @@ Aujourd’hui, je suis **enseignant AI/Data Science chez Le Wagon**
 
 ---
 
-### 🚀 Projets (sélection)
+### 🚀 Projets
 - **Agent LangGraph** pour gérer une todo-list (https://github.com/Artem-Grigoryev/LangGrapgh-task-agent)
 - **Prototypes RAG** : Le pipeline analyse les PDF et extrait texte, tableaux et figures, construit des index persistants dans ChromaDB, puis répond via une approche combinant routage de documents + recherche de chunks avec MMR (Maximal Marginal Relevance) (https://github.com/Artem-Grigoryev/Local-Multimodal-RAG-System)
 
