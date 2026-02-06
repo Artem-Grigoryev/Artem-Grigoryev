@@ -19,10 +19,8 @@ Aujourd’hui, je suis **enseignant AI/Data Science chez Le Wagon**
 ---
 
 ### 🚀 Projets (sélection)
-- **Agent LangGraph** pour gérer une todo-list (API **FastAPI** + UI **Streamlit**)  
-  → workflows agentiques, outils, persistance, UI simple pour démo
-- **Prototypes RAG** : préparation de documents, indexation, stratégies de retrieval, itérations sur la qualité de réponse  
-  → focus sur le “product-fit” : réduire les appels inutiles et améliorer la pertinence
+- **Agent LangGraph** pour gérer une todo-list (https://github.com/Artem-Grigoryev/LangGrapgh-task-agent)
+- **Prototypes RAG** : Le pipeline analyse les PDF et extrait texte, tableaux et figures, construit des index persistants dans ChromaDB, puis répond via une approche combinant routage de documents + recherche de chunks avec MMR (Maximal Marginal Relevance) (https://github.com/Artem-Grigoryev/Local-Multimodal-RAG-System)
 
 ---
 
@@ -32,7 +30,7 @@ Aujourd’hui, je suis **enseignant AI/Data Science chez Le Wagon**
 -  MLOps (FastAPI/Docker/Streamlit +GCP)
 - coaching projets ; 
 
-Avant l’IA : **5 ans en ingénierie électrique** sur des projets internationaux sous fortes contraintes (rigueur, normes, delivery, collaboration multi-équipes).
+Avant l’IA : **5 ans en ingénierie électrique** sur des projets internationaux .
 
 ---
 
