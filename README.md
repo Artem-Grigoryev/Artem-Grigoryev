@@ -13,7 +13,8 @@ Ingénieur IA spécialisé en RAG et applications agentiques. Aujourd’hui ense
 ---
 
 ### 🚀 Projets
-- **Prototypes RAG** : Le pipeline analyse les PDF et extrait texte, tableaux et figures, construit des index persistants dans ChromaDB, puis répond via une approche combinant routage de documents + recherche de chunks avec MMR (Maximal Marginal Relevance) (https://github.com/Artem-Grigoryev/Local-Multimodal-RAG-System)
+- Développement d'un système RAG agentique full-stack (FastAPI + React) — agent IA multi-outils (OpenAI Responses API), recherche vectorielle (Supabase/pgvector), reranking Cohere, recherche web, déployé sur AWS ECS.(GitHub: Artem-Grigoryev/Agentic_RAG_Supabase)
+- Prototypes RAG : Le pipeline analyse les PDF et extrait texte, tableaux et figures, construit des index persistants dans ChromaDB, puis répond via une approche combinant routage de documents + recherche de chunks avec MMR (Maximal Marginal Relevance) (https://github.com/Artem-Grigoryev/Local-Multimodal-RAG-System)
 
 ---
 
